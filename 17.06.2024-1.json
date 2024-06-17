@@ -1,0 +1,25 @@
+{
+    "name": "Krystal Ortega",
+    "age": 88,
+    "address": {
+        "street": "Holden Extensions",
+        "city": "West Thomasport",
+        "state": "New Jersey",
+        "zip": "79170"
+    },
+    "contact": {
+        "phone": "580.276.7894",
+        "servicePhone": "800168735"
+    },
+    "birthday": "1937-03-09",
+    "ip": "32.132.168.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot traditional care.\nConsider employee glass film visit through fly. By grow participant organization recently fly enter control. Blue building weight various model toward.",
+        "bio": "Fall trip idea writer relationship rich.\nNot morning marriage garden. See beat by."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
