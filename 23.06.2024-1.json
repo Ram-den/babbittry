@@ -1,0 +1,25 @@
+{
+    "name": "Tara Zhang",
+    "age": 39,
+    "address": {
+        "street": "Kenneth Court",
+        "city": "East Kayla",
+        "state": "New Mexico",
+        "zip": "41268"
+    },
+    "contact": {
+        "phone": "001-675-371-6485x525",
+        "servicePhone": "800469678"
+    },
+    "birthday": "1986-07-06",
+    "ip": "67.221.160.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition relate gas record together catch that. Fight could exactly item nearly structure back. Conference set red general morning plant certain series.",
+        "bio": "Know game street.\nEducation also one. Yes process environmental fight also idea TV nearly.\nHigh spend radio. Mission difficult on manager before. Place discuss population fly while artist from."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
