@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Scott",
+    "age": 115,
+    "address": {
+        "street": "Xavier Courts",
+        "city": "East Stevenberg",
+        "state": "Missouri",
+        "zip": "19970"
+    },
+    "contact": {
+        "phone": "(367)975-7588x209",
+        "servicePhone": "800087270"
+    },
+    "birthday": "1910-16-03",
+    "ip": "12.221.185.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Tell over direction once we number. Town mother across line with.\nHalf daughter serve contain fund analysis. Two design want happy security sort western skin.\nDrug include point she military.",
+        "bio": "Degree site right business hit.\nScience part great bad society. Employee blue buy.\nColor skill eight certainly condition far. Player over yard quite than compare still."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
