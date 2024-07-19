@@ -1,0 +1,25 @@
+{
+    "name": "Leah Houston",
+    "age": 77,
+    "address": {
+        "street": "Harris Fields",
+        "city": "Port Rodneyhaven",
+        "state": "Ohio",
+        "zip": "97962"
+    },
+    "contact": {
+        "phone": "628.596.6174",
+        "servicePhone": "800886482"
+    },
+    "birthday": "1948-27-05",
+    "ip": "32.210.19.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection force former assume maybe. Difficult appear protect in career care paper.\nOfficial campaign president form may. Indeed involve lead best also.",
+        "bio": "Her develop central now add analysis development. Environment end government top finish. Tell in they local event.\nHow old wall brother peace customer interest. Simple business view or."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
