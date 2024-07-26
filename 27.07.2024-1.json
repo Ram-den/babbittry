@@ -1,0 +1,25 @@
+{
+    "name": "Jim Price",
+    "age": 71,
+    "address": {
+        "street": "Christopher Knoll",
+        "city": "Prestonton",
+        "state": "Virginia",
+        "zip": "74929"
+    },
+    "contact": {
+        "phone": "+1-334-776-9711x37617",
+        "servicePhone": "800700402"
+    },
+    "birthday": "1954-26-10",
+    "ip": "174.255.114.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue film enough development develop wrong think. Security Democrat number life to these. Player foreign ok always Congress girl.",
+        "bio": "Sort to phone fire able the. Economic face quality successful. Check ball maintain medical play moment build score."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
