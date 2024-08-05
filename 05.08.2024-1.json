@@ -1,0 +1,25 @@
+{
+    "name": "Michael Spencer",
+    "age": 63,
+    "address": {
+        "street": "Dawn Trail",
+        "city": "Goodwinmouth",
+        "state": "Utah",
+        "zip": "01352"
+    },
+    "contact": {
+        "phone": "478.993.0331",
+        "servicePhone": "800343192"
+    },
+    "birthday": "1962-27-11",
+    "ip": "191.31.158.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental still customer although own. Choose people finish treat page agency hotel.\nRelate worry politics. Eat air role door.",
+        "bio": "Glass ago usually live want. Local seat certain miss. Moment culture stay.\nLight agency choice various. But tax major model Congress food site.\nProduction management data yeah."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
