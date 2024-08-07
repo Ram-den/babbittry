@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Holland",
+    "age": 50,
+    "address": {
+        "street": "Amy Crossing",
+        "city": "Williamsshire",
+        "state": "Virginia",
+        "zip": "34541"
+    },
+    "contact": {
+        "phone": "001-627-249-7054x692",
+        "servicePhone": "800467512"
+    },
+    "birthday": "1975-17-06",
+    "ip": "149.32.26.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Material court player authority before need. Star information anyone fall customer safe. Throughout figure store success art ability chance.",
+        "bio": "Far life president discuss radio statement recognize. Buy air information force since rest some seat. Room soon bring. Occur meeting kitchen international crime democratic because."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
