@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Tate",
+    "age": 40,
+    "address": {
+        "street": "April Passage",
+        "city": "Smithfurt",
+        "state": "Arkansas",
+        "zip": "33756"
+    },
+    "contact": {
+        "phone": "(318)983-2496x56801",
+        "servicePhone": "800163042"
+    },
+    "birthday": "1985-17-08",
+    "ip": "193.201.148.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Night week goal century politics close son.\nIndustry off piece own although page. Cultural seat visit smile kid threat reflect.\nThought next school lay. Body somebody first pattern. Try much war.",
+        "bio": "Into time stop bank ahead structure force. Someone plant white ever. Likely method light interest nice wife politics."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
