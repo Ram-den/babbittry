@@ -1,0 +1,25 @@
+{
+    "name": "Amy Murray",
+    "age": 35,
+    "address": {
+        "street": "Jacqueline Row",
+        "city": "Lake Stephanieview",
+        "state": "Minnesota",
+        "zip": "49311"
+    },
+    "contact": {
+        "phone": "(410)332-8072",
+        "servicePhone": "800259678"
+    },
+    "birthday": "1990-05-01",
+    "ip": "75.129.62.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Very none north race special same employee. Remain behind rate bring past others.\nAppear mouth peace participant far them. Wait soon which management table so. We turn smile born during.",
+        "bio": "Him throw culture most land employee summer. Trouble involve than than stand appear represent. Somebody control clear."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
