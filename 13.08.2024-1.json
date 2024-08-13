@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Burton",
+    "age": 39,
+    "address": {
+        "street": "Guerrero Isle",
+        "city": "Annport",
+        "state": "Wyoming",
+        "zip": "21918"
+    },
+    "contact": {
+        "phone": "874-983-7374x43003",
+        "servicePhone": "800250531"
+    },
+    "birthday": "1986-28-04",
+    "ip": "43.232.120.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Right exactly available prove. Report its hope attention cultural without. Yes officer end imagine good.\nPartner process firm sure Mr heavy these. Buy know control score prove practice its.",
+        "bio": "Source ok environmental their ready night player. Foreign worker but both similar. Believe environment realize beyond.\nDiscuss they sell later give. Yeah win walk travel five scientist."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
