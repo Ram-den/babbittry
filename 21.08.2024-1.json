@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Mendoza",
+    "age": 15,
+    "address": {
+        "street": "Nichols Row",
+        "city": "Thomasfurt",
+        "state": "Tennessee",
+        "zip": "47477"
+    },
+    "contact": {
+        "phone": "915-802-6620",
+        "servicePhone": "800253184"
+    },
+    "birthday": "2010-06-05",
+    "ip": "138.170.171.201",
+    "foo": "bar",
+    "profile": {
+        "about": "This movie smile experience. Matter particularly southern take same modern television evening.\nParent reality religious would interest.",
+        "bio": "Event lead break book nearly. Entire person size western change. Keep exactly generation drive too note."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
