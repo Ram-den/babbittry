@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Payne",
+    "age": 19,
+    "address": {
+        "street": "Andrea Forks",
+        "city": "New Jamesbury",
+        "state": "Rhode Island",
+        "zip": "42703"
+    },
+    "contact": {
+        "phone": "001-608-935-9558x5288",
+        "servicePhone": "800670880"
+    },
+    "birthday": "2006-29-06",
+    "ip": "91.201.113.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Least side soon at behind growth individual likely. Son star forget help spring research.\nTalk available writer talk may forward cause. By trade Mr already about too record.",
+        "bio": "Weight now recent use bring. Baby task discover economy bit pattern education. Claim woman stay be long."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
