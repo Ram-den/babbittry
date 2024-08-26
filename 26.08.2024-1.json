@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Barker",
+    "age": 56,
+    "address": {
+        "street": "Gary Flat",
+        "city": "Port Joelside",
+        "state": "Rhode Island",
+        "zip": "05948"
+    },
+    "contact": {
+        "phone": "(365)933-2856x37175",
+        "servicePhone": "800496793"
+    },
+    "birthday": "1969-12-07",
+    "ip": "149.151.102.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Its describe return morning pressure. Campaign stop assume.\nHimself apply body officer resource painting. Role actually every issue deal dark already. Serve school many media beautiful.",
+        "bio": "Even pattern happen region. Tell speech community water practice quality.\nWear author draw method. Listen artist type carry establish goal kitchen."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
