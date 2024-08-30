@@ -1,0 +1,25 @@
+{
+    "name": "Luke Terrell",
+    "age": 23,
+    "address": {
+        "street": "Woods Fall",
+        "city": "North Darrylborough",
+        "state": "Pennsylvania",
+        "zip": "71903"
+    },
+    "contact": {
+        "phone": "001-753-496-8354x580",
+        "servicePhone": "800387024"
+    },
+    "birthday": "2002-18-06",
+    "ip": "124.229.206.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Once feel feel. Gas see three program third I.\nSkin result dream three fear task figure. Various area discuss worry station will. Full drop manager such young.",
+        "bio": "Read very indeed role check standard. Southern manage treat many strategy this kind.\nAir wait might reflect not writer effect. Baby pay remain need. Drive season establish sure success second sell."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
