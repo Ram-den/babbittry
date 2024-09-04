@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Payne",
+    "age": 47,
+    "address": {
+        "street": "Moreno Station",
+        "city": "New Leah",
+        "state": "Massachusetts",
+        "zip": "53634"
+    },
+    "contact": {
+        "phone": "(549)462-7201x4565",
+        "servicePhone": "800417745"
+    },
+    "birthday": "1978-20-06",
+    "ip": "10.46.154.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog raise sign activity. Over charge better star. Almost certainly rest better sport.\nAvailable economy campaign. Book blood out fund all hair. Kind along outside wish hospital difference music.",
+        "bio": "Popular game cost cause. Lay side rest product war.\nTraditional become recently nation offer serve this. Economy career among.\nNearly most use garden.\nRest on individual leg mind."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
