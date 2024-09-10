@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Serrano",
+    "age": 11,
+    "address": {
+        "street": "Martinez Rapid",
+        "city": "Port Josetown",
+        "state": "Missouri",
+        "zip": "67587"
+    },
+    "contact": {
+        "phone": "001-678-770-6466x06029",
+        "servicePhone": "800301857"
+    },
+    "birthday": "2014-08-03",
+    "ip": "43.48.242.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Pm development also pass analysis whose possible. Attention may hard child. Language firm culture health exist throughout second. Character machine just teach marriage visit many.",
+        "bio": "Nothing medical forward. Factor physical value course. East industry evening item trouble teacher quite tend."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
