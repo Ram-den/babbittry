@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Scott",
+    "age": 100,
+    "address": {
+        "street": "Lauren Flat",
+        "city": "Vanessachester",
+        "state": "New Mexico",
+        "zip": "76750"
+    },
+    "contact": {
+        "phone": "5409989780",
+        "servicePhone": "800774456"
+    },
+    "birthday": "1925-31-05",
+    "ip": "57.7.182.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Support dinner much certainly. Next fast arrive media minute radio interesting.\nFew success government find. Knowledge hair effort carry glass.\nTrip good push full. Pick admit sense bank pass for.",
+        "bio": "Prove run visit. Either large save specific drug often. Wrong feel teach both from."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
