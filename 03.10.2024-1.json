@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Brown",
+    "age": 75,
+    "address": {
+        "street": "Aimee Points",
+        "city": "Erinberg",
+        "state": "Michigan",
+        "zip": "47318"
+    },
+    "contact": {
+        "phone": "8555540784",
+        "servicePhone": "800841609"
+    },
+    "birthday": "1950-20-04",
+    "ip": "24.122.237.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Use before condition natural prepare do. Finish across floor method.\nWorker public five student nation the. Child behind worker take realize player call. Claim continue agency health else.",
+        "bio": "Why than truth training religious key in. Rather wide total involve. Try right two offer present pull.\nCollege particular against floor. Rock student these."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
