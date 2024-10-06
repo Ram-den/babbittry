@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Espinoza",
+    "age": 44,
+    "address": {
+        "street": "Melinda Well",
+        "city": "Nguyenfurt",
+        "state": "New Hampshire",
+        "zip": "75523"
+    },
+    "contact": {
+        "phone": "705-275-1133",
+        "servicePhone": "800865002"
+    },
+    "birthday": "1981-19-07",
+    "ip": "21.23.83.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Art catch enjoy reality close collection send.\nApproach feeling goal however professor campaign. For likely continue budget. Impact put find kind recognize think.",
+        "bio": "Story level travel staff technology manage number. Door expect worry decade. President character call special agent organization cost may. Class agency degree."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
