@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Salas",
+    "age": 10,
+    "address": {
+        "street": "Allen Unions",
+        "city": "Christopherland",
+        "state": "Maryland",
+        "zip": "74363"
+    },
+    "contact": {
+        "phone": "+1-548-918-5750x710",
+        "servicePhone": "800247407"
+    },
+    "birthday": "2015-24-01",
+    "ip": "205.22.216.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop star eat address admit near them table. Listen fill need course reflect finally. Listen member name either south.",
+        "bio": "For down computer good southern.\nMost south into loss major.\nDescribe indicate city camera. President security best small last tend show."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
