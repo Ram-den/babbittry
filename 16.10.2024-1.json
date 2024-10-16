@@ -1,0 +1,25 @@
+{
+    "name": "David Martinez",
+    "age": 75,
+    "address": {
+        "street": "Woods Creek",
+        "city": "Port Ian",
+        "state": "Massachusetts",
+        "zip": "99676"
+    },
+    "contact": {
+        "phone": "(624)689-1751x838",
+        "servicePhone": "800659892"
+    },
+    "birthday": "1950-23-11",
+    "ip": "136.169.51.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Now home whatever. Our method beyond yes.\nDifference look call close sound soldier. Also care entire country. Staff drop where someone sit modern.",
+        "bio": "Serve voice because today peace term. Floor along professor.\nNational front reveal. Training bar issue list perhaps. Hospital born certain of."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
