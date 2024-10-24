@@ -1,0 +1,25 @@
+{
+    "name": "Jill Velez",
+    "age": 79,
+    "address": {
+        "street": "Manning Keys",
+        "city": "New Troy",
+        "state": "New Mexico",
+        "zip": "27979"
+    },
+    "contact": {
+        "phone": "4667992884",
+        "servicePhone": "800107721"
+    },
+    "birthday": "1946-17-07",
+    "ip": "185.52.23.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Different size everybody receive picture any animal. Physical describe try kitchen chance along whether.\nTogether per economy north manager standard. Suffer break study. Develop maintain month sound.",
+        "bio": "Within message somebody expect some black television. Movement lot particular red those yes mother six.\nParent their seem firm leg ok language. Prove finally item article make whose head."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
