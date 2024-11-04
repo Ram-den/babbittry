@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Martinez",
+    "age": 1,
+    "address": {
+        "street": "Donald Ways",
+        "city": "Pattersonborough",
+        "state": "Minnesota",
+        "zip": "73255"
+    },
+    "contact": {
+        "phone": "758-991-3563x26651",
+        "servicePhone": "800360454"
+    },
+    "birthday": "2024-10-05",
+    "ip": "204.33.84.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport push leader information point her. Economic human onto region push professor yard.\nMain true eight few. Yourself news fire many bank cause. Popular choice generation help myself.",
+        "bio": "Other which free peace. Whom modern or whether. Able writer attorney painting race page law."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
