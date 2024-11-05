@@ -1,0 +1,25 @@
+{
+    "name": "Brian Smith",
+    "age": 36,
+    "address": {
+        "street": "Jason Pine",
+        "city": "Port Aliciaberg",
+        "state": "West Virginia",
+        "zip": "03684"
+    },
+    "contact": {
+        "phone": "(586)536-1644",
+        "servicePhone": "800386653"
+    },
+    "birthday": "1989-28-06",
+    "ip": "185.52.199.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle more leg director soon color behavior. Among task goal market. Peace charge serve understand. It nothing mouth company data beyond recognize.",
+        "bio": "Each store exactly see. Stuff major probably however.\nHigh material simply sister color."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
