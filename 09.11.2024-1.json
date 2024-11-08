@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Holland",
+    "age": 18,
+    "address": {
+        "street": "Brown Causeway",
+        "city": "Hodgesport",
+        "state": "Oklahoma",
+        "zip": "69559"
+    },
+    "contact": {
+        "phone": "369.542.6675x63314",
+        "servicePhone": "800273730"
+    },
+    "birthday": "2007-09-03",
+    "ip": "10.217.194.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Under weight least like enough address star agent. Focus ever necessary positive down ask author. Cold off and boy cause field.",
+        "bio": "Space choice character write second. Officer rather wind once already foot writer. Goal movement pick pay.\nCompany collection one town attack. Page you analysis."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
