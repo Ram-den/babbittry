@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Murphy",
+    "age": 8,
+    "address": {
+        "street": "Hernandez Glens",
+        "city": "New Doris",
+        "state": "Illinois",
+        "zip": "82580"
+    },
+    "contact": {
+        "phone": "001-416-846-1919x5839",
+        "servicePhone": "800223239"
+    },
+    "birthday": "2017-24-11",
+    "ip": "113.230.254.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Event Republican manage result their. About project magazine case skin area. After financial each dream miss wonder.",
+        "bio": "Or out seem similar father me yes name. Election middle which best floor this medical. Kid use dog particularly standard himself fine.\nDrive determine reality local consider collection its media."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
