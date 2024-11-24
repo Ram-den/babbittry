@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Cunningham",
+    "age": 100,
+    "address": {
+        "street": "Moreno View",
+        "city": "Dodsontown",
+        "state": "Iowa",
+        "zip": "24765"
+    },
+    "contact": {
+        "phone": "210.872.6500",
+        "servicePhone": "800158326"
+    },
+    "birthday": "1925-20-12",
+    "ip": "129.194.66.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Research could help. Foreign often every growth reality fact third. Red sea medical again.\nProvide serious hotel. Wear consumer perhaps remain card box allow.",
+        "bio": "Price provide everyone quite election. Attorney kid suddenly politics use whatever. Realize adult hear call old police.\nOthers save church group skin personal. Series nice doctor send race Democrat."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
