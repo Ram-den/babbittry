@@ -1,0 +1,25 @@
+{
+    "name": "Darren Peterson",
+    "age": 108,
+    "address": {
+        "street": "Chambers Crest",
+        "city": "Josephtown",
+        "state": "Virginia",
+        "zip": "10222"
+    },
+    "contact": {
+        "phone": "819-311-3212x039",
+        "servicePhone": "800998885"
+    },
+    "birthday": "1917-23-08",
+    "ip": "35.151.138.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify type environment economy start. Tell school relate finish word property few. Customer foreign bed red or car officer.\nProduction so capital since. Number evidence guess possible assume sea.",
+        "bio": "Agency catch culture lead machine. Final former free method pull everyone finally.\nHuge provide risk ground enter. Campaign traditional hot."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
