@@ -1,0 +1,25 @@
+{
+    "name": "Michelle King",
+    "age": 77,
+    "address": {
+        "street": "Elizabeth Pines",
+        "city": "Gentrystad",
+        "state": "New Hampshire",
+        "zip": "82365"
+    },
+    "contact": {
+        "phone": "412-615-3231x98244",
+        "servicePhone": "800990856"
+    },
+    "birthday": "1948-29-12",
+    "ip": "189.29.161.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist owner sport boy sign. South personal although ok attack board imagine officer. Also call fact involve.",
+        "bio": "Series that clear others matter. Prepare movie whatever water year difference tough door.\nSeveral forget key Mrs real. Explain how line write. By result true its throw base."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
