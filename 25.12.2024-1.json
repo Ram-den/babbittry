@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Gonzales",
+    "age": 104,
+    "address": {
+        "street": "Smith Grove",
+        "city": "Grantville",
+        "state": "Connecticut",
+        "zip": "23336"
+    },
+    "contact": {
+        "phone": "+1-827-688-5822x4493",
+        "servicePhone": "800890778"
+    },
+    "birthday": "1921-28-12",
+    "ip": "157.219.247.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle as win store great movie left statement. She team exist bad ever speech. Save article various character western chance edge doctor.",
+        "bio": "Become better pick challenge hot. Fact low argue carry open. Everybody party operation outside.\nListen finish six administration. Report any anything care international glass."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
