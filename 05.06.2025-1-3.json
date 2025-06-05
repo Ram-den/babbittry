@@ -1,0 +1,25 @@
+{
+    "name": "Kirk Rogers",
+    "age": 114,
+    "address": {
+        "street": "Ramirez Square",
+        "city": "Gregoryside",
+        "state": "Rhode Island",
+        "zip": "00580"
+    },
+    "contact": {
+        "phone": "001-487-363-0459x80113",
+        "servicePhone": "800218624"
+    },
+    "birthday": "1911-23-05",
+    "ip": "142.167.218.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Court dinner study marriage police south tonight. Push pretty than factor within. Positive situation consumer player today cell cost. Lot grow that perhaps its.",
+        "bio": "Even test area. Cut act usually tree. Hot century wrong argue what statement writer.\nCamera listen many. Final blue get conference deal their. Audience ability challenge account partner."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
