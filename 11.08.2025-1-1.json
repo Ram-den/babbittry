@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Jacobs",
+    "age": 3,
+    "address": {
+        "street": "Brown Row",
+        "city": "Thomasfort",
+        "state": "Colorado",
+        "zip": "11240"
+    },
+    "contact": {
+        "phone": "+1-527-567-5383",
+        "servicePhone": "800706882"
+    },
+    "birthday": "2022-19-07",
+    "ip": "88.54.72.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean eye large age single a. Fund ok must player exist. Attack eat civil those letter yeah get.\nTogether risk dream night about all everything.",
+        "bio": "Bar probably dream change watch stock. Accept door will trouble have third.\nCause pressure suffer."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
