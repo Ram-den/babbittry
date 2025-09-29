@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Smith",
+    "age": 99,
+    "address": {
+        "street": "Miller Court",
+        "city": "West Craig",
+        "state": "Arizona",
+        "zip": "54022"
+    },
+    "contact": {
+        "phone": "+1-539-682-1993x1244",
+        "servicePhone": "800228481"
+    },
+    "birthday": "1926-21-04",
+    "ip": "27.130.13.60",
+    "foo": "bar",
+    "profile": {
+        "about": "These for thus commercial score yes half. Eat positive board discussion lay property whether car. Training sing business worry here peace happen.",
+        "bio": "Another they yet black land. Material only charge south here time president. Major vote amount pick. Some pull environment myself."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
