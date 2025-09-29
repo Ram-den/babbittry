@@ -1,0 +1,25 @@
+{
+    "name": "Heather Stewart DVM",
+    "age": 108,
+    "address": {
+        "street": "Michael Circles",
+        "city": "West Mark",
+        "state": "Nevada",
+        "zip": "55507"
+    },
+    "contact": {
+        "phone": "+1-828-927-8683x545",
+        "servicePhone": "800444731"
+    },
+    "birthday": "1917-24-09",
+    "ip": "189.112.176.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Child ever reflect site. Break mean fund again indicate between blood ability. Computer eye head soldier.",
+        "bio": "Paper past none again. Collection city story something term. Democrat enjoy hundred tell.\nTen design as human prevent interesting bag. Writer usually learn government drug meet role value."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
