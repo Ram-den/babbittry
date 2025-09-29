@@ -1,0 +1,25 @@
+{
+    "name": "Jeff Ramirez",
+    "age": 56,
+    "address": {
+        "street": "Williams Heights",
+        "city": "Brianmouth",
+        "state": "Ohio",
+        "zip": "85367"
+    },
+    "contact": {
+        "phone": "277.495.8633",
+        "servicePhone": "800975934"
+    },
+    "birthday": "1969-10-04",
+    "ip": "165.171.117.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor him bank medical. Smile within ahead not Mr thought individual. Stop day two change table.\nResult those certainly list challenge save.",
+        "bio": "Star artist bad soldier. Step his fast hair agent. Sit scientist subject say learn. Prove determine concern factor thank."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

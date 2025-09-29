@@ -1,0 +1,25 @@
+{
+    "name": "Martha Herman",
+    "age": 91,
+    "address": {
+        "street": "Jennifer Key",
+        "city": "Lauraberg",
+        "state": "Idaho",
+        "zip": "66151"
+    },
+    "contact": {
+        "phone": "205-788-0407x940",
+        "servicePhone": "800246589"
+    },
+    "birthday": "1934-01-08",
+    "ip": "1.169.205.150",
+    "foo": "bar",
+    "profile": {
+        "about": "City protect how student step rich. Affect who energy blood similar fly exactly. Camera us expect station.\nHope point hospital across. Instead campaign manage receive.",
+        "bio": "Official several business gun. Level discuss girl approach individual trouble."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
