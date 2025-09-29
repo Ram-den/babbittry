@@ -1,0 +1,25 @@
+{
+    "name": "Hailey Griffith",
+    "age": 89,
+    "address": {
+        "street": "Katherine Passage",
+        "city": "Karenton",
+        "state": "Connecticut",
+        "zip": "49965"
+    },
+    "contact": {
+        "phone": "912-743-1369x8180",
+        "servicePhone": "800233060"
+    },
+    "birthday": "1936-25-11",
+    "ip": "99.179.188.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Message across investment real sense design. Force box determine sister treat.",
+        "bio": "Special if require focus near play. Available probably bad wide enter decade. Student image common effect when cold newspaper field. Adult than order fine."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

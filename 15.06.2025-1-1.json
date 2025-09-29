@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Grant",
+    "age": 30,
+    "address": {
+        "street": "Matthew Gateway",
+        "city": "Sloanburgh",
+        "state": "North Dakota",
+        "zip": "24896"
+    },
+    "contact": {
+        "phone": "745-725-6232x633",
+        "servicePhone": "800694335"
+    },
+    "birthday": "1995-25-05",
+    "ip": "55.254.235.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal quality girl audience friend training. Down suddenly serve grow off guy. Just wall president authority star avoid cut would.",
+        "bio": "Summer recognize hand real then positive where little.\nCar particular share. Central pick decision check yourself once. Public music record put face individual. Take travel matter seek live turn."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
