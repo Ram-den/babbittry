@@ -1,0 +1,25 @@
+{
+    "name": "Martha Hull",
+    "age": 25,
+    "address": {
+        "street": "Jessica Cape",
+        "city": "West Amyfurt",
+        "state": "South Carolina",
+        "zip": "71708"
+    },
+    "contact": {
+        "phone": "+1-504-222-8081x37828",
+        "servicePhone": "800587306"
+    },
+    "birthday": "2000-25-12",
+    "ip": "36.152.134.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand right she little forward least young. Represent man three later memory.\nTogether country lot thing condition set for. Whom enjoy education interest nor information position.",
+        "bio": "Religious start its bill. Another exist know situation standard war.\nGeneral indeed term spend. Her chance popular let.\nFear choose sign fine agency nice phone. News decade stay recently woman."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

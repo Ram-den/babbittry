@@ -1,0 +1,25 @@
+{
+    "name": "Susan Miller",
+    "age": 22,
+    "address": {
+        "street": "Williams Lock",
+        "city": "West Douglaston",
+        "state": "New Hampshire",
+        "zip": "67806"
+    },
+    "contact": {
+        "phone": "+1-729-293-8216x425",
+        "servicePhone": "800761706"
+    },
+    "birthday": "2003-21-01",
+    "ip": "43.40.227.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead finally cost ahead month station she a. Standard not wish parent east behind think family. Window network him research produce several authority.",
+        "bio": "General upon deal use. Law adult message ask career result.\nYourself outside daughter memory book. Mission take action study player adult accept. After sometimes popular could time."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
