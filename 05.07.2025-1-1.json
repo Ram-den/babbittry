@@ -1,0 +1,25 @@
+{
+    "name": "Joshua York",
+    "age": 93,
+    "address": {
+        "street": "Francisco Land",
+        "city": "Shirleyfort",
+        "state": "New Jersey",
+        "zip": "27238"
+    },
+    "contact": {
+        "phone": "001-488-314-2401x273",
+        "servicePhone": "800643177"
+    },
+    "birthday": "1932-16-03",
+    "ip": "11.66.97.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself some do then. Hot section full. Vote director spring manage six. Six hand president significant tough join.\nDinner decision boy economy sit. Type product enter another produce may economy.",
+        "bio": "International entire practice thing century product cut time. Grow generation his and language mean."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
