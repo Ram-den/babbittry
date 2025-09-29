@@ -1,0 +1,25 @@
+{
+    "name": "Chad Sherman",
+    "age": 36,
+    "address": {
+        "street": "Alan Roads",
+        "city": "West Charlesview",
+        "state": "Pennsylvania",
+        "zip": "86511"
+    },
+    "contact": {
+        "phone": "576.414.4971",
+        "servicePhone": "800748621"
+    },
+    "birthday": "1989-27-11",
+    "ip": "203.179.192.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Would happy hotel father member. Remember by her only. Myself factor think guess.\nPush plan couple. Four various month. Dog positive western rich fear. Class beat news worker think my gas.",
+        "bio": "Check could little piece professor international audience."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

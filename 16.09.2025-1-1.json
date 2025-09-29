@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Mitchell",
+    "age": 78,
+    "address": {
+        "street": "Newton Vista",
+        "city": "Chrisberg",
+        "state": "Oregon",
+        "zip": "03389"
+    },
+    "contact": {
+        "phone": "001-248-417-4852x1578",
+        "servicePhone": "800995284"
+    },
+    "birthday": "1947-27-11",
+    "ip": "186.201.220.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect election also country under. Particularly style young country use recent alone.\nBank ten drive test strategy area on. Range believe method push dog just.",
+        "bio": "Stock film behind drug power decide increase. Impact race new onto believe answer. Fine station she each assume decide appear.\nReason whatever speech Republican entire. His start parent."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

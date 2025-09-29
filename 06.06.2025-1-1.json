@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Gentry",
+    "age": 34,
+    "address": {
+        "street": "Garrett Parkways",
+        "city": "Conniehaven",
+        "state": "Arkansas",
+        "zip": "18268"
+    },
+    "contact": {
+        "phone": "+1-291-698-8246x4666",
+        "servicePhone": "800848526"
+    },
+    "birthday": "1991-17-01",
+    "ip": "10.232.113.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh race there camera.\nDaughter field even time. Edge bring good turn computer. Against perform part enough threat new group.",
+        "bio": "Travel could car major. Those he minute position usually loss. Before daughter single.\nFine account may. Couple eight choice heavy."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
