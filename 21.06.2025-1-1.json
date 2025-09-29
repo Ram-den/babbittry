@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Evans",
+    "age": 22,
+    "address": {
+        "street": "Mercer Greens",
+        "city": "West Greg",
+        "state": "Kentucky",
+        "zip": "41153"
+    },
+    "contact": {
+        "phone": "001-522-848-9582x26318",
+        "servicePhone": "800480010"
+    },
+    "birthday": "2003-25-04",
+    "ip": "179.95.155.121",
+    "foo": "bar",
+    "profile": {
+        "about": "These foot growth staff most space. Effort big beat type outside.\nMarket listen soldier. Discover garden several wait have serious. Article power politics pull.",
+        "bio": "Upon us whose response political bill break. Oil purpose really responsibility represent body health. College likely girl over than."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
