@@ -1,0 +1,25 @@
+{
+    "name": "Adam Davis",
+    "age": 72,
+    "address": {
+        "street": "Butler Islands",
+        "city": "Cindyhaven",
+        "state": "Maryland",
+        "zip": "27126"
+    },
+    "contact": {
+        "phone": "906-798-2923",
+        "servicePhone": "800963129"
+    },
+    "birthday": "1953-26-04",
+    "ip": "126.55.25.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy sit sit still kind fact represent serve. Nothing arrive create accept important.\nFoot religious between stay quality station ask. Check far call raise trouble.",
+        "bio": "There control listen economic carry. Pay way skin short act score. Process that us you operation.\nDay decade sell certain step final. Send probably per tend business artist modern."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
