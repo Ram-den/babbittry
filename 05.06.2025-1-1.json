@@ -1,0 +1,25 @@
+{
+    "name": "Roger Hall",
+    "age": 60,
+    "address": {
+        "street": "Henry Throughway",
+        "city": "Francisbury",
+        "state": "Massachusetts",
+        "zip": "44391"
+    },
+    "contact": {
+        "phone": "001-820-543-0963x1482",
+        "servicePhone": "800078809"
+    },
+    "birthday": "1965-12-09",
+    "ip": "71.28.156.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Beat leg reflect catch three trouble. During hot half character. Five similar notice more general campaign different.",
+        "bio": "Old particular course might eat. Knowledge leader meeting pay. Off important no century wind others lay."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

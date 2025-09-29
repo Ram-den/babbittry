@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Scott",
+    "age": 47,
+    "address": {
+        "street": "Philip Drives",
+        "city": "Johntown",
+        "state": "Indiana",
+        "zip": "68308"
+    },
+    "contact": {
+        "phone": "(782)550-8675x50114",
+        "servicePhone": "800788182"
+    },
+    "birthday": "1978-02-09",
+    "ip": "34.249.85.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Plant fish realize beat school. Look two hair forward.\nPurpose side ten them leg cost operation. Popular you bank care lay deep.\nState American kind. Stock whom minute wall.",
+        "bio": "Top building policy education picture.\nSeem these traditional oil drop. Attention off stage. Remain enter speech everyone away."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
