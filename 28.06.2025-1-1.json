@@ -1,0 +1,25 @@
+{
+    "name": "Ruben Davis",
+    "age": 85,
+    "address": {
+        "street": "Michelle Circles",
+        "city": "West Timothyfort",
+        "state": "Alabama",
+        "zip": "29511"
+    },
+    "contact": {
+        "phone": "+1-848-607-6618x6585",
+        "servicePhone": "800523162"
+    },
+    "birthday": "1940-05-08",
+    "ip": "34.177.155.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee foreign too manager ten television. Trip data clearly. Effort visit get huge your.\nWar million pretty against. State include wind property work.",
+        "bio": "Authority almost trouble organization floor she kind. Want thing social family same court sign. Down offer organization including hotel cut century decade."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
